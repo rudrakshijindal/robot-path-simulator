@@ -11,5 +11,7 @@ A* path planning simulator with selectable heuristics (Manhattan, Euclidean, Che
 - Heuristic comparison table and chart
 
 ## Run locally
+```
 pip install -r requirements.txt
 streamlit run app.py
+```
